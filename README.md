@@ -8,6 +8,7 @@ Functionality
    
 
 This part of the code needs to be filled for the code to work:
+
     #Email setup
     email_sender = "your_email@gmail.com"
     email_password = 'your_password'
